@@ -1,4 +1,4 @@
-# README
+# Bike-Rental-App
 
 <img width="1677" alt="Screen Shot 2019-09-15 at 4 36 21 PM" src="https://user-images.githubusercontent.com/47402849/64927327-63928d00-d7d7-11e9-8597-e68271775c2a.png">
 
@@ -6,7 +6,7 @@
 
 
 
-# Bike-Rental-App
+# Description 
 
 This site was built to enable users in search for bike rentals and offer what the company has to offer. A user is able to view availabe inventory as well as select a product of their liking.
 
