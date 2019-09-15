@@ -15,3 +15,6 @@ React (Front-end) Ruby on Rails (Back-end)
 
 # Feature(s):
 add button on product image for user to view more details on selected item.
+
+# Deployment Site:
+https://bike-rentals-app.herokuapp.com
