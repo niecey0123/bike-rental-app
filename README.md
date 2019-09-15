@@ -11,7 +11,7 @@
 This site was built to enable users in search for bike rentals and offer what the company has to offer. A user is able to view availabe inventory as well as select a product of their liking.
 
 # Technologies Used:
-React (Front-end) Ruby on Rails (Back-end)
+React (Front-end), Ruby on Rails (Back-end), Bulma CSS Library
 
 # Feature(s):
 add button on product image for user to view more details on selected item.
